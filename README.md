@@ -25,9 +25,9 @@
 
 ### Building Environment
 [node-sass](node-sass) without [Microsoft Visual Studio](MVS):  
-1. ```$ npm install node-sass --ignore-scripts```
-2. set a new environment viriable **SASS_BINARY_NAME**
-3. copy the **node.build** file to your **%SASS_BINARY_NAME%** folder
+1. ```$ npm install node-sass --ignore-scripts```  
+2. set a new environment viriable **SASS_BINARY_NAME**  
+3. copy the **node.build** file to your **%SASS_BINARY_NAME%** folder  
 
 ## Deployment
 * release  
